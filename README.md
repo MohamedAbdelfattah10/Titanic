@@ -1,2 +1,0 @@
-# Titanic
-Titanic - Machine Learning 
